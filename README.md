@@ -1,4 +1,4 @@
-# projects
+# project1
 This is my first Git reposotory
 <br>
 author -sahil vaidya
